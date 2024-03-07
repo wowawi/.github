@@ -1,7 +1,9 @@
-# WoWcraft-uk
+# Classic Talent Calculator
 
-Welcome to the support site for WoWcraft apps
+Welcome to the support site for Classic Talent Calculator
 
-Please use the issue list to file any bugs, comments, features requests or other feedback.
+Please feel free to email me at dbarton.uk@icloud.com if you catch any bugs, have any features requests or just want to say hello!
 
-Thank you, and we hope you enjoy using our apps!
+The privacy policy and terms and conditions are provided above.
+
+Thank you, and we hope you enjoy using our app!
