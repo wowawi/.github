@@ -1,4 +1,4 @@
-# WoWcraft-UK
+# WoWcraft-uk
 
 Welcome to the support site for WoWcraft apps
 
