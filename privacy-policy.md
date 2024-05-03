@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-David Barton built the Classic Talent Calculator app as a Commercial app. This SERVICE is provided by David Barton and is intended for use as is.
+David Barton built wowcraft-uk apps (WoW Talent Calculator, Classic Talent Calculator) as Commercial apps. This SERVICE is provided by David Barton and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
