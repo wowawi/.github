@@ -1,9 +1,9 @@
-# wowcraft-uk
+# WoWaWi
 
-Welcome to the support site for wowcraft-uk
+Welcome to the support site for WoWaWi apps
 
-Please feel free to email me at carry-surge0e@icloud.com if you catch any bugs, have any features requests or just want to say hello!
+Please feel free to email me at wowawi@icloud.com if you catch any bugs, have any features requests or want to say hello!
 
 The privacy policy and terms and conditions are provided above.
 
-Thank you, and I hope that you enjoy using the app!
+Thank you, and I hope that you enjoy using our apps!
