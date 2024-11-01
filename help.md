@@ -12,6 +12,11 @@ Gestures and Controls
 
 Menu Items
 -----------
+- Tap on the Version number for some miscellaneous options
+  - The Help button will take you to this page
+  - Rate and review will enable posting feedback
+  - Privacy options (EU only), allowing you to configure privacy settings.
+ 
 - Tap on the Import button, to import a new build for a supplied build string.
 
 - Tap the One/Two tap allocate button to choose whether to (de-)allocate using one or two taps.
