@@ -1,27 +1,50 @@
 Gestures and Controls
 ----------------------
-- Tap on a node to show its tooltip and (de-)allocate points (if the tooltip is already shown)
-- Drag left or right on a choice node to show the other choice talent
-- Long press on a node to remove points from the node and all of its dependants
-- Tap on the background to hide or display the tooltip
-- Tap on the tooltip to de-(allocate) point(s) to its talent
-- Tap on a choice tooltip to switch the choice talent
-- Drag on the tooltip paging indicator to scroll up or down for tooltips that can be allocated more than one point
-- Swipe left or right to move between tabs, or use the navigation arrows
-- Tap on a hero icon to switch hero trees
-- Tap on the Import button, to import a new build for a given build string
-- Tap on Save build to store your crafted builds on your device
-- Tap on Share build, to export build strings
-- Tap the One/Two tap allocate button to display the tooltip and choose whether to (de-)allocate in one or two taps.
-- Tap on the Show/Hide background button to show or hide background images
-- Tap on the Zoom In/Zoom Out button to toggle magnification of the talents trees
-- Tap on the Clear button (trailing edge of each tree header), to clear a tree of all points and talent choices
+- Tap on a node to show its tooltip and (de-)allocate points.
+- Drag left or right on a choice node to show the alternative choice talent.
+- Long press on a node to either fully add or fully remove points from the node (and all of its dependants).
+- Tap on the background to hide or display the tooltip.
+- Tap on the tooltip to de-(allocate) point(s) to its talent.
+- Tap on a choice tooltip to switch the choice talent.
+- Drag on the tooltip paging indicator to scroll up or down for tooltips that can be allocated more than one point.
+- Swipe left or right to move between tabs.
+- Tap on a hero icon to switch hero trees.
 
-Status Colours
---------------
-- A grayed out talent represents an unavailable talent. Due to dependancy(s), the talent cannot be allocated points at this time.
-- Green shows that at least one point is available on to be allocated to the talent.
-- Yellow indicated that the talent is complete - all available points have been allocated to the talent.
-- A red talent shows that it is broken. It has be allocated a point, but it is no longer valid due to a dependancy break.
+Menu Items
+-----------
+- Tap on the Import button, to import a new build for a supplied build string.
 
+- Tap the One/Two tap allocate button to choose whether to (de-)allocate using one or two taps.
+- Tap on Share build to export or share a build string.
+- Tap on the extra items button to:
+  - Save builds and store your own crafted builds.
+  - Compare up to two builds to the your current build
+  - Show or hide background images. (May improve visibility on smaller devices)
+  - Change the magnification mode
 
+- Tap the Clear button, to clear a tree of all points and talent choices
+- Use the Navigation arrows as an alternative way to move between tabs
+
+Colours
+--------
+The app tries to use colour to try represent the "status" of talents and other data.
+
+- A grayed out talent is a currently unavailable talent. This maybe due to a missing dependancy or not enough points available. Gray is generally used to indicate when something is unavailable.
+- Green indicates that at least one point is available to be allocated to the talent.
+- Yellow indicates that the no more points can be assigned to the talent. This is generally when the talent is complete, but it can also be used when no more points are available in the tree.
+- Red indicates something is broken or invalid. For example a broken talent is coloured red when it is assigned a point but no longer has a valid dependancy.
+- Orange is generally used as a warning colour
+- Cyan and Pink are used to highlight allocations for compared builds
+- Blue typically shows a button to other pages or functions
+- Class colours are used through to try add extra flavour.
+
+Compared Builds
+----------------
+The app allows you to compare your currently selected build to up to two other builds.
+
+- Press on the Compare build button in extra functions menu
+- Choose either one or two builds to compare to. Comparison Build A is coloured cyan, Comparison Build B is coloured pink.
+- The tree header will re-render to show the builds you are comparing.
+- The trees on each page will update to add an allocation indicator on each tree node. The allocation of the comparison build is only shown if it is different from the selected build.
+- Hero tree icons are marked with an A, B to show which hero tree is active on the comparison build
+- PvP talents are marked to indicate the Pvp talents in the comparison builds.
