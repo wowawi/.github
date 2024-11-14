@@ -56,8 +56,8 @@ The app allows you to compare your currently selected build to up to two other b
 
 Premium Features
 ----------------
-Import builds, save builds and compare builds are "premium" features. There are two ways of accessing these features.
+Import builds, save builds and compare builds are premium features. There are two ways of accessing these features, both accessed by clicking on the Premium access menu item in either the version menu or the calculator options menu.
 
-- Freemium mode allows you to access these features for a limited time, by watching a "rewarded ad". After watching the ad, the premium features will be available for a short time. Sometimes the button to watch an ad is disabled. This will happen if you are already able to access premium features (i.e. you have recently watched a rewarded ad or you have subscribed). It is possible that rewarded ads are unavailable or cannot be served at a give time. This typically occurs if your network connectivity is poor or the ad provider has no ads available. Privacy settings and tracking options can limit the supply.
+- The Freemium options allows you to access these features for a limited time, by watching a "rewarded ad". After watching the ad, the premium features will be available for a short time. Sometimes the button to watch an ad is disabled. This will happen if you are already able to access premium features (i.e. you have recently watched a rewarded ad or you have subscribed). It is possible that rewarded ads are unavailable or cannot be served at a give time. This typically occurs if your network connectivity is poor or the ad provider has no ads available. Privacy settings and tracking options can limit the supply.
 - Premium mode gives you full access to all premium features whilst your are subscribed. It also disables all advertising. 
 
