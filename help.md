@@ -1,5 +1,5 @@
 Gestures and Controls
-----------------------
+---------------------
 - Tap on a node to show its tooltip and (de-)allocate points.
 - Drag left or right on a choice node to show the alternative choice talent.
 - Long press on a node to either fully add or fully remove points from the node (and all of its dependants).
@@ -11,7 +11,7 @@ Gestures and Controls
 - Tap on a hero icon to switch hero trees.
 
 Menu Items
------------
+----------
 - Tap on the Version number for some miscellaneous options
   - The Help button will take you to this page
   - Rate and review will enable posting feedback
@@ -31,7 +31,7 @@ Menu Items
 - Use the Navigation arrows as an alternative way to move between tabs
 
 Colours
---------
+-------
 The app tries to use colour to try represent the "status" of talents and other data.
 
 - A grayed out talent is a currently unavailable talent. This maybe due to a missing dependancy or not enough points available. Gray is generally used to indicate when something is unavailable.
@@ -44,7 +44,7 @@ The app tries to use colour to try represent the "status" of talents and other d
 - Class colours are used through to try add extra flavour.
 
 Compare Builds
-----------------
+--------------
 The app allows you to compare your currently selected build to up to two other builds.
 
 - Press on the Compare build button in extra functions menu
@@ -53,3 +53,11 @@ The app allows you to compare your currently selected build to up to two other b
 - The trees on each page will update to add an allocation indicator on each tree node. The allocation of the comparison build is only shown if it is different from the selected build.
 - Hero tree icons are marked with an A, B to show which hero tree is active on the comparison build
 - PvP talents are marked to indicate the Pvp talents in the comparison builds.
+
+Premium Features
+----------------
+Import builds, save builds and compare builds are "premium" features. There are two ways of accessing these features.
+
+- Freemium mode allows you to access these features for a limited time, by watching a "rewarded ad". After watching the ad, the premium features will be available for a short time. Sometimes the button to watch an ad is disabled. This will happen if you are already able to access premium features (i.e. you have recently watched a rewarded ad or you have subscribed). It is possible that rewarded ads are unavailable or cannot be served at a give time. This typically occurs if your network connectivity is poor or the ad provider has no ads available. Privacy settings and tracking options can limit the supply.
+- Premium mode gives you full access to all premium features whilst your are subscribed. It also disables all advertising. 
+
