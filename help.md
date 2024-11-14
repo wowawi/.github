@@ -43,7 +43,7 @@ The app tries to use colour to try represent the "status" of talents and other d
 - Blue typically shows a button to other pages or functions
 - Class colours are used through to try add extra flavour.
 
-Compared Builds
+Compare Builds
 ----------------
 The app allows you to compare your currently selected build to up to two other builds.
 
